@@ -8,3 +8,5 @@ In this project, I would like to know what do the most popular Apps look like? C
 
 
 ![image](https://user-images.githubusercontent.com/65806833/116807798-bd3ffa80-ab67-11eb-88cb-f904ea6f6753.png)
+
+More material will be uploaded through time. It is not surprising to see typos; please email me if you find any (anyiheng11@ucla.edu).
